@@ -1,0 +1,4 @@
+[submodule "submodules/zero-os"]
+	path = submodules/zero-os
+	url = git@github.com:zero-os/0-initramfs
+	branch = master
